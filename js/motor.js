@@ -16,7 +16,7 @@ function controlarLicuadora() {
 		estadoLicuadora = 'apagada';
 		sonido();
 		licuadora.classList.remove('active');
-		console.log('me apagaste');
+		console.log('apagada');
 	}
 }
 
